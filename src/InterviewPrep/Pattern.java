@@ -7,17 +7,16 @@ public class Pattern {
 		for (int i = 1; i <= n; i++) {
 			for (int j = 1; j <= i; j++)
 		{
-			System.out.print("* ");
+			System.out.print("& ");
 		}
 		for (int j = i; j <= n; j++) {
 			System.out.print(" ");
 	}
 		System.out.println();
 	}
-
-System.out.println("GitHUb commmit");		
-System.out.println("GitHUb commmit 2nd");		
-System.out.println("GitHUb commmit 3rd");		
-System.out.println("GitHUb commmit 3rd");	
+		System.out.println("First Commit");
+		System.out.println("Second Commit");
+		System.out.println("Third Commit");
+		System.out.println("Fourth Commit");
 }
 }
