@@ -18,5 +18,6 @@ public class Pattern {
 System.out.println("GitHUb commmit");		
 System.out.println("GitHUb commmit 2nd");		
 System.out.println("GitHUb commmit 3rd");		
+System.out.println("GitHUb commmit 3rd");	
 }
 }
